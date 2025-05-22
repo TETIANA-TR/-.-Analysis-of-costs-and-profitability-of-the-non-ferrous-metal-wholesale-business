@@ -7,7 +7,7 @@
 аналіз ключових статей витрат для оптимізації бюджету.
 Проєкт реалізовано із застосуванням інструментів Google Sheets для збору та структурування даних, а також Tableau для візуалізації та створення дашборду. Це дозволяє приймати обґрунтовані бізнес-рішення на основі фактичних даних і підвищувати ефективність управління фінансами компанії.
 
-/ Analysis of costs and profitability of the non-ferrous metal wholesale business
+/ Analysis of costs and profitability of the non-ferrous metal wholesale business.
 This project is dedicated to creating an interactive analytical tool for small or medium-sized businesses in the wholesale trade of non-ferrous metal products. The method was to develop a clear dashboard that allows you to track key financial indicators, including:
 cost structure by category (purchasing, logistics, salaries, marketing, etc.),
 monthly revenue and expense dynamics,
